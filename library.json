@@ -1,0 +1,23 @@
+[
+    {
+        "title": "asss",
+        "author": "mnxjn",
+        "year": "38374",
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "asma",
+        "author": "wahab",
+        "year": "2001",
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "peer e kamil",
+        "author": "",
+        "year": "2002",
+        "genre": "fiction",
+        "read": false
+    }
+]
